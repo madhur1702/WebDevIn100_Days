@@ -155,6 +155,7 @@ function fillTable() {
           ["Day 57", "4 in a Row", "public/Day-57_4_in_a_row/index.html"],
 
           ["Day 58", "Budget Tracker", "public/Budget-Tracker/index.html"],
+          ["Day 59", "Hangman Game", "public/Hangman-Game/index.html"],
 
       ["Day70","Memory Game App","./public/Memory Game App/index.html"]
         
